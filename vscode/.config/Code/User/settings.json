@@ -1,0 +1,45 @@
+{
+  "window.commandCenter": false,
+  "window.menuBarVisibility": "toggle",
+  "workbench.startupEditor": "none",
+  "workbench.activityBar.location": "top",
+  "workbench.editor.showTabs": "single",
+  "editor.cursorBlinking": "solid",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.tabSize": 2,
+  "editor.fontFamily": "'FiraMono Nerd Font', monoscape",
+  "editor.fontSize": 14,
+  "editor.fontLigatures": true,
+  "editor.lineHeight": 2,
+  "explorer.compactFolders": false,
+  "editor.minimap.enabled": false,
+  "editor.stickyScroll.enabled": false,
+  "editor.renderWhitespace": "none",
+  "editor.renderControlCharacters": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "terminal.integrated.fontFamily": "'FiraMono Nerd Font', monospace",
+  "terminal.integrated.lineHeight": 1.4,
+  "terminal.external.linuxExec": "warp-terminal",
+
+  "files.associations": {
+    "*.html": "html",
+    "*.css": "css",
+    "*.js": "javascript",
+    "*.jsx": "javascriptreact",
+    "*.ts": "typescript",
+    "*.tsx": "typescriptreact"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+
+  "workbench.colorTheme": "Gruvbox Material Dark",
+  "workbench.iconTheme": "material-icon-theme",
+  "gruvboxMaterial.darkPalette": "material",
+  "material-icon-theme.folders.theme": "none",
+  "material-icon-theme.opacity": 0.5,
+  "material-icon-theme.saturation": 0,
+  "material-icon-theme.hidesExplorerArrows": true,
+  "window.customTitleBarVisibility": "auto"
+}
