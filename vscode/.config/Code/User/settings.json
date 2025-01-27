@@ -40,6 +40,5 @@
   "material-icon-theme.folders.theme": "none",
   "material-icon-theme.opacity": 0.5,
   "material-icon-theme.saturation": 0,
-  "material-icon-theme.hidesExplorerArrows": true,
-  "window.customTitleBarVisibility": "auto"
+  "material-icon-theme.hidesExplorerArrows": true
 }
