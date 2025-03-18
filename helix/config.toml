@@ -1,0 +1,16 @@
+theme = "github_dark_high_contrast"
+
+[editor]
+true-color = true
+color-modes = true
+text-width = 120
+
+[editor.cursor-shape]
+normal = "block"
+insert = "bar"
+select = "underline"
+
+[editor.soft-wrap]
+enable = true
+wrap-indicator = ""
+wrap-at-text-width = true
